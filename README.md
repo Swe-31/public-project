@@ -1,2 +1,2 @@
-# public-project
-Capstone Project - Ecommerce system 
+# Capstone - project
+Ecommerce system 
